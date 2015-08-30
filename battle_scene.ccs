@@ -6,6 +6,8 @@
         <Project Name="MainScene.csd" Type="Scene" />
         <Image Name="HelloWorld.png" />
         <Image Name="square.jpg" />
+        <Image Name="1.png" />
+        <Image Name="square.png" />
       </RootFolder>
     </Group>
   </SolutionFolder>
